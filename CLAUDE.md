@@ -6,6 +6,8 @@
 - 이모지 사용 금지
 - 불필요한 칭찬/공감 문구 제거
 - 간결하고 기술적인 어조 유지
+- GitHub 커밋 메시지, 코멘트(PR, Issue, Review 등) 작성 시 한국어로 내용을 정리하여 기입할 것
+- 커밋 메시지에 Co-Authored-By 등 불필요한 부가 정보를 포함하지 말 것
 
 ## Project Understanding
 
